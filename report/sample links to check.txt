@@ -1,0 +1,22 @@
+sample links to check -
+
+in n8n chrome-
+
+unsafe-
+
+http://localhost:5678/webhook-test/88679464-4f99-4b59-aa16-fc9e2f59adef?url=http://login-secure-bank-update.com
+
+safe-
+
+http://localhost:5678/webhook-test/88679464-4f99-4b59-aa16-fc9e2f59adef?url=https://www.google.com
+
+-------------------------------------------------------------------------------------------------------------------------
+in PyCharm local -
+
+unsafe-
+
+http://localhost:5000/predict?url=http://testphp.vulnweb.com
+
+safe-
+
+http://localhost:5000/predict?url=http://login-secure-update-bank-verify.com@192.168.1.1
